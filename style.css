@@ -470,7 +470,6 @@ h2.entry-title {
 	padding:0;
 	letter-spacing: 1px;
 }
-
 h4 {
 	color: #343434;
 	font-size: 20px;
@@ -596,7 +595,6 @@ animation-duration: 20s;
 animation-direction: alternate;
 }
 
-
 .view {
     width: 98%;
     height: 700px;
@@ -636,9 +634,6 @@ animation-direction: alternate;
 	transition-delay: 0.3s;
 }
 
-
-
-
 #prez {
   	float: left;
 	margin: 0;
@@ -650,7 +645,6 @@ animation-direction: alternate;
 	margin:0;
 	padding:0;
 }
-
 
 .video {
 	width:410px;
@@ -674,29 +668,8 @@ animation-direction: alternate;
 	transition: background-color 1s;
 }
 
-
-
 .video img{
    margin:0; 
-}
-
-.wide{
-    width:65%;
-	margin-left:2px;
-	float:left;
-}
-
-.wide img{
-   margin:0 2px 0 0; 
-   
-}
-
-.wide img:hover, .col1 img:hover, .map img:hover, .col3 img:hover, #prez img:hover {
-      	
-	-webkit-transition: background-color 1s;
-	-moz-transition: background-color 1s;
-	transition: background-color 1s;
-	background-color:#FF2E67;
 }
 
 .col, .colalt{
