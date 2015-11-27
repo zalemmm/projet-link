@@ -1,3 +1,9 @@
+Projet-Link
+============
+
+Modification d'un thème Wordpress pour le projet du site de la performance artistique "Link Human-Robot"
+Thème de base: Water-Lily
+
 Water Lily
 ============
 
@@ -58,6 +64,4 @@ v 1.2 - Updated the French translation which had the wrong text-domain and a few
 v 1.1 - Fixed menu on mobile. Typo was in the functions.php
 
 v 1.0 - Hello, world!
-
-
 
