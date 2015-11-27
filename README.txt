@@ -1,8 +1,8 @@
 Projet-Link
 ============
 
-Modification d'un thème Wordpress pour le projet du site de la performance artistique "Link Human-Robot"
-Thème de base: Water-Lily
+Adaptation d'un thème Wordpress pour le projet du site http://wwww.linkhumanrobot.website
+Thème de base: Water Lily
 
 Water Lily
 ============
